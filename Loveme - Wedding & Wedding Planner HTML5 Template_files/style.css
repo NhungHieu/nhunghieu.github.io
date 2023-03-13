@@ -14976,3 +14976,17 @@ static-hero-s4
     color: #fff;
   }
 }/*# sourceMappingURL=style.css.map */
+
+
+
+
+
+/* Hiếu viết thêm */
+.site-footer .inner h2 {
+  font-family: "dancing_scriptregular", cursive;
+  font-size: 72px;
+  font-size: 4.8rem;
+  line-height: 1.8em;
+  margin: 0.8em 0;
+  text-align: center;
+}
